@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5019750908448185001
+  m_GuidHigh: 17511951630042179735
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4613680899310465318
+      m_GuidHigh: 3534201856217076121
+    m_SerializedTextureGuid:
+      m_GuidLow: 938094255326311914
+      m_GuidHigh: 7416650250914007592
+    m_Size: {x: 0.12, y: 0.089999996}
+    m_SpecifySize: 1
+    m_Name: bunnies
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5524292673492336513
+      m_GuidHigh: 9026285863578654850
+    m_SerializedTextureGuid:
+      m_GuidLow: 4648990101842397543
+      m_GuidHigh: 15082701667654157752
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: crook
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5203155889584021113
+      m_GuidHigh: 10652958427513206710
+    m_SerializedTextureGuid:
+      m_GuidLow: 11156655178695997346
+      m_GuidHigh: 17616298607793265515
+    m_Size: {x: 0.08, y: 0.10666666}
+    m_SpecifySize: 1
+    m_Name: flowers1
+    m_Texture: {fileID: 0}

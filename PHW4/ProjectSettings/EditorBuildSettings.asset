@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/PHW3/PHW3_scene.unity
+    guid: a1bf0e7b9cece455f81c1d2731ba76e7
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0120f651c47cbe64cb4b136a98c3660c,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 98d942ab0fadf6d4281f2c9080d7efdd,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e2f869774b12e400996eb546603602e3,
+      type: 2}
